@@ -1,4 +1,5 @@
 For this task I have used Python to preprocess data. 
+
 Two datasets were created from the original (Absolute and Like for Like), even though only one was used for the Tableau dashboard. 
 From existing variables, few more were derived:
 Actual Sales
